@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "気づけよBaby",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-17T02:56:15.088482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "気づけよBaby",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/01_気づけよBaby_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "気づけよBaby",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/02_気づけよBaby_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "気づけよBaby - Kizukeyo Baby",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/03_気づけよBaby_-_Kizukeyo_Baby_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "気づけよBaby",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_気づけよBaby_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
